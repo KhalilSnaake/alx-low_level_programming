@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * 
- * Description: 'a program to print a message'
  *
  * Return: Always 0 (Success)
  */
