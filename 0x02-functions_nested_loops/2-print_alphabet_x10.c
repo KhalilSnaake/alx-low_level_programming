@@ -5,7 +5,7 @@
  * Return : 0 for success
  *
  */
-int main (void)
+int print_alphabet_x10 (void)
 {
   int i, j;
   for (i = 0; i < 9; i++)
