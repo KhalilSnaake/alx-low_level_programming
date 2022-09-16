@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  *main - check if letter is uppercase
  *
