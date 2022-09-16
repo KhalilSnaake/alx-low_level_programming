@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  *main - check if letter is uppercase
@@ -7,14 +7,14 @@
  *Return : 0 if not 1 if upper
  *
  */
-int main( int c)
+int _isupper(int c)
 {
-  if (isupper (c))
-    {
-      return (0);
-    }
-  else
-    {
-      return (0);
-    }
+	if (c >= 65 && c <= 90)
+	{
+		return (1);
+	}
+	else
+	{
+		return (0);
+	}
 }
