@@ -10,9 +10,9 @@
  * Return: struct dog.
  * if fails, returns NULL.
  */
-doggy *new_dog(char *name, float age, char *owner)
+dog_t *new_dog(char *name, float age, char *owner)
 {
-	doggy *p_dog;
+	dog_t *p_dog;
 	int i, lname, lowner;
 
 	p_dog = malloc(sizeof(*p_dog));
