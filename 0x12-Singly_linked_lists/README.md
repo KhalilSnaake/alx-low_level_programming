@@ -9,3 +9,9 @@ Return the number of list's elements
 
 ### 2-add_node.c
 adds a new node at the beginning
+
+### 3-add_node_end.c
+adds a new node at the end
+
+### 4-free_list.c
+frees a list
